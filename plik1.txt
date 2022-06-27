@@ -1,3 +1,7 @@
 Hej, tu Darek!
+<<<<<<< HEAD
 Co tam?
 Hipopotam :P
+=======
+SIEMANO :-)
+>>>>>>> ee86403 (Zmieniony plik1.txt)
