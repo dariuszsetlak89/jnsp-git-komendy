@@ -1,1 +1,2 @@
-Feature branch commit 1	
+Feature branch commit 1
+Feature branch commit 2
